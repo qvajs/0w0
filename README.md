@@ -25,13 +25,13 @@ Import:
 **ESM** (Node.js, Bun, Deno)
 
 ```js
-import {} from "pkg";
+import {} from "0w0";
 ```
 
 **CDN** (Deno, Bun and Browsers)
 
 ```js
-import {} from "https://esm.sh/pkg";
+import {} from "https://esm.sh/0w0";
 ```
 
 <!-- /automd -->
@@ -54,11 +54,11 @@ import {} from "https://esm.sh/pkg";
 
 <!-- automd:contributors license=MIT -->
 
-Published under the [MIT](https://github.com/unjs/0w0/blob/main/LICENSE) license.
-Made by [community](https://github.com/unjs/0w0/graphs/contributors) 💛
+Published under the [MIT](https://github.com/ZaneL1u/0w0/blob/main/LICENSE) license.
+Made by [community](https://github.com/ZaneL1u/0w0/graphs/contributors) 💛
 <br><br>
-<a href="https://github.com/unjs/0w0/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=unjs/0w0" />
+<a href="https://github.com/ZaneL1u/0w0/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=ZaneL1u/0w0" />
 </a>
 
 <!-- /automd -->
